@@ -1,2 +1,2 @@
 # project2
-Learning HTML, CSS &amp; JavaScript
+My website Project for learning how to use HTML, CSS & JavaScript.
