@@ -119,6 +119,22 @@ p {
   
 }
 
+.button1 {
+  background-color: #D0312D;
+  border: 1px solid #000000;
+  border-radius: 12px;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 1px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  
+}
+
 .center {
   display: flex;
   justify-content: center;
